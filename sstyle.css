@@ -1,0 +1,27 @@
+body{
+    background-color: chartreuse;
+}
+
+h1{
+    text-align: center;
+    color:darkmagenta;
+}
+/* fan box effects */
+.fan-container{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid #cb36cb;
+    border-collapse: collapse;
+
+}
+td{
+    border: 1px solid #cb36cb;
+    text-align: left;
+    padding-right: 160px;
+    text-transform: capitalize;
+
+}
+.boss{
+    text-align: left;
+}
